@@ -128,7 +128,7 @@ const devFlorian = {
 
 ---
 
-## 🌟 Perfiles que todo desarrollador debería seguir
+## 🌟 Perfiles que sigo y que todo desarrollador debería seguir
 
 > Una selección de referentes increíbles de la comunidad tech global que me inspiran y de los que aprendo constantemente.
 
