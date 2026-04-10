@@ -1,40 +1,49 @@
 <div align="center">
 
 ```
-   ██╗██╗   ██╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ██╗   ██╗██╗██████╗
-   ██║██║   ██║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██║   ██║██║██╔══██╗
-   ██║██║   ██║███████║██╔██╗ ██║    ██║  ██║███████║██║   ██║██║██║  ██║
-██╗██║██║   ██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
-╚████║╚██████╔╝██║  ██║██║ ╚████║    ██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
- ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
+██████╗ ███████╗██╗   ██╗    ███████╗██╗      ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██║   ██║    ██╔════╝██║     ██╔═══██╗██╔══██╗██║██╔══██╗████╗  ██║
+██║  ██║█████╗  ██║   ██║    █████╗  ██║     ██║   ██║██████╔╝██║███████║██╔██╗ ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔══╝  ██║     ██║   ██║██╔══██╗██║██╔══██║██║╚██╗██║
+██████╔╝███████╗ ╚████╔╝     ██║     ███████╗╚██████╔╝██║  ██║██║██║  ██║██║ ╚████║
+╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 ### 👨‍💻 Estudiante de Ingeniería de Sistemas · Fullstack Developer en formación
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jflorian)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jflorianamador@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/jflorian?style=for-the-badge&color=171515&logo=github)](https://github.com/jflorian)
 [![Location](https://img.shields.io/badge/📍_Barranquilla-Colombia-FFCD00?style=for-the-badge)](https://www.google.com/maps/place/Barranquilla)
+[![CUC](https://img.shields.io/badge/CUC-Ingeniería_de_Sistemas-003087?style=for-the-badge&logo=academia&logoColor=white)](https://www.cuc.edu.co)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## ⚡ Sobre mí
 
-```javascript
-const juanDavid = {
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```typescript
+const devFlorian = {
   nombre:      "Juan David Florián Amador",
-  rol:         "Fullstack Developer (en formación)",
-  universidad: "Corporación Universitaria de la Costa",
-  semestre:    "5to semestre — Ingeniería de Sistemas",
+  alias:       "Dev Florián 🚀",
+  rol:         "Fullstack Developer — en construcción",
+  stack:       ["React", "Node.js", "TypeScript", "Python"],
+  universidad: "CUC — Ingeniería de Sistemas",
+  semestre:    5,
   ubicación:   "Barranquilla, Colombia 🇨🇴",
-  intereses:   ["Desarrollo Web", "Aplicaciones Fullstack", "Clean Code"],
-  buscando:    "Oportunidades para aplicar y fortalecer mis habilidades 🚀",
+  mentalidad:  "aprender · construir · mejorar · repetir ♻️",
+
+  actualmente: {
+    aprendiendo: "arquitectura de software & buenas prácticas",
+    buscando:    "mi primer rol como desarrollador 💼",
+    disfrutando: "resolver problemas con código limpio ✨",
+  },
+
+  filosofía: "El mejor código es el que resuelve problemas reales.",
 };
 ```
 
-Soy un estudiante apasionado por la tecnología con **interés en el desarrollo de software y aplicaciones web**. Me caracterizo por mi capacidad de **aprendizaje rápido**, organización y adaptación a nuevos entornos tecnológicos. Busco oportunidades para participar en proyectos reales que me permitan crecer como desarrollador Fullstack.
+> 🌱 Me apasiona construir cosas que funcionen, aprender cada día algo nuevo y escribir código que cualquiera pueda leer. Creo en el poder del **open source** y en que la comunidad es el mejor recurso de todo desarrollador.
 
 ---
 
@@ -43,19 +52,31 @@ Soy un estudiante apasionado por la tecnología con **interés en el desarrollo 
 <div align="center">
 
 ### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧰 Herramientas & Otros
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Herramientas & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
@@ -66,14 +87,7 @@ Soy un estudiante apasionado por la tecnología con **interés en el desarrollo 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jflorian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jflorian&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jflorian&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jflorian&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -82,8 +96,8 @@ Soy un estudiante apasionado por la tecnología con **interés en el desarrollo 
 ## 🎓 Formación
 
 | 🏛️ Institución | 📚 Título | 📅 Año |
-|---|---|---|
-| Corporación Universitaria de la Costa | Ingeniería de Sistemas (en curso — 5to sem.) | 2024 – Actualidad |
+|:---|:---|:---:|
+| Corporación Universitaria de la Costa | Ingeniería de Sistemas *(en curso — 5to sem.)* | 2024 – hoy |
 | Inst. Educativa Distrital Guataca Sur | Bachillerato Académico | 2023 |
 
 ---
@@ -96,20 +110,9 @@ Soy un estudiante apasionado por la tecnología con **interés en el desarrollo 
 
 **Conceptos Básicos de Hardware de Computadora** — Febrero 2026
 
-> Fundamentos sobre componentes físicos, ensamblaje, diagnóstico de fallos y mantenimiento de equipos informáticos.
+> Fundamentos sobre componentes físicos, ensamblaje básico, diagnóstico de fallos y mantenimiento de equipos informáticos.
 
 </div>
-
----
-
-## 💼 Experiencia
-
-Aunque mi trayectoria profesional formal está en sus inicios, he desarrollado habilidades clave como **responsabilidad, atención al detalle, trabajo en equipo y gestión del tiempo** en entornos laborales exigentes:
-
-- 🧵 **Auxiliar y Operario de Producción** — HYL *(2023)*: control de calidad y organización del flujo de trabajo.
-- 🌽 **Auxiliar de Producción** — Julio Masas *(2025)*: transformación de materias primas y empaque.
-
-Estas experiencias forjaron en mí disciplina y organización que aplico directamente en el desarrollo de software.
 
 ---
 
@@ -117,23 +120,40 @@ Estas experiencias forjaron en mí disciplina y organización que aplico directa
 
 <div align="center">
 
-`⚡ Aprendizaje rápido` &nbsp; `🧩 Resolución de problemas` &nbsp; `📋 Organización`
-`🤝 Trabajo en equipo` &nbsp; `📄 Documentación técnica` &nbsp; `🔄 Adaptabilidad`
+`⚡ Aprendizaje rápido` &nbsp;·&nbsp; `🧩 Resolución de problemas` &nbsp;·&nbsp; `📋 Organización`
+
+`🤝 Trabajo en equipo` &nbsp;·&nbsp; `📄 Documentación técnica` &nbsp;·&nbsp; `🔄 Adaptabilidad`
+
+</div>
+
+---
+
+## 🌟 Perfiles que todo desarrollador debería seguir
+
+> Una selección de referentes increíbles de la comunidad tech global que me inspiran y de los que aprendo constantemente.
+
+<div align="center">
+
+| 👤 Perfil | 🔗 GitHub |
+|:---|:---|
+| **Kailash Nadh** | [![Follow](https://img.shields.io/badge/knadh-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/knadh) |
+| **Jayant Goel** | [![Follow](https://img.shields.io/badge/JayantGoel001-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/JayantGoel001) |
+| **Vinayak Kulkarni** | [![Follow](https://img.shields.io/badge/vinayakkulkarni-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/vinayakkulkarni) |
+| **Utkarsh Pathrabe** | [![Follow](https://img.shields.io/badge/DenverCoder1-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/DenverCoder1) |
+| **Srihari Humbarwadi** | [![Follow](https://img.shields.io/badge/srihari--humbarwadi-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/srihari-humbarwadi) |
+| **Alicia Sykes** | [![Follow](https://img.shields.io/badge/Lissy93-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Lissy93) |
+| **Kent C. Dodds** | [![Follow](https://img.shields.io/badge/kentcdodds-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/kentcdodds) |
+| **Sebastián Ros** | [![Follow](https://img.shields.io/badge/sebastienros-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastienros) |
+| **Xi (Frost) Ming** | [![Follow](https://img.shields.io/badge/frostming-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/frostming) |
+| **Florian Rival** | [![Follow](https://img.shields.io/badge/4ian-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/4ian) |
+| **Jan De Dobbeleer** | [![Follow](https://img.shields.io/badge/JanDeDobbeleer-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/JanDeDobbeleer) |
+| **Carlos Alexandro Becker** | [![Follow](https://img.shields.io/badge/caarlos0-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/caarlos0) |
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💬 ¡Hablemos!
-
-*Estoy abierto a oportunidades de prácticas, proyectos colaborativos y cualquier reto que me permita crecer como desarrollador.*
-
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jflorian)
-[![Email](https://img.shields.io/badge/Escríbeme_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jflorianamador@gmail.com)
-
----
 
 ⭐ *Si alguno de mis proyectos te es útil, ¡no olvides dejarle una estrella!* ⭐
 
