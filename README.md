@@ -70,6 +70,15 @@ const devFlorian = {
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 Automatización & Agentes IA
+
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=zapier&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
 ### 🧰 Herramientas & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,6 +89,35 @@ const devFlorian = {
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
+
+---
+
+## 🧠 Agentes IA & Automatización Inteligente
+
+> Más allá del código tradicional — construyo flujos que piensan, deciden y actúan solos.
+
+<div align="center">
+
+```
+  Trigger ──► Agente IA ──► Decisión ──► Acción Automatizada
+     │             │              │               │
+  Webhook       n8n + LLM     Condición       Email · Slack
+  Formulario    Claude API     Lógica          DB · API · Bot
+  Schedule      OpenAI         Contexto        Notificación
+```
+
+</div>
+
+Diseño y construyo **agentes de IA** y **flujos de automatización** que conectan servicios, procesan información con modelos de lenguaje y ejecutan acciones sin intervención humana. Integro estos sistemas directamente en aplicaciones web para crear productos más inteligentes.
+
+**Lo que sé hacer:**
+
+- 🔗 Diseñar flujos complejos en **n8n** con lógica condicional y ramas paralelas
+- 🤖 Integrar **LLMs** (Claude, GPT) como núcleo de decisión dentro de workflows
+- 🔌 Conectar agentes con APIs externas: Slack, Telegram, Airtable, Gmail, GitHub
+- ⚡ Disparar automatizaciones desde apps web vía **webhooks en tiempo real**
+- 🗂️ Procesar, transformar y enrutar datos entre múltiples servicios automáticamente
+- 🧩 Embeber flujos de n8n como funcionalidades dentro de aplicaciones React / Node.js
 
 ---
 
