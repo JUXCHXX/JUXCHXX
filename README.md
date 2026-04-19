@@ -124,6 +124,7 @@ Diseño y construyo **agentes de IA** y **flujos de automatización** que conect
 ## 📊 GitHub Stats
 
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=JUXCHXX&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 </div>
