@@ -147,7 +147,7 @@ const devFlorian = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JUXCHXX&theme=merko&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JUXCHXX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
